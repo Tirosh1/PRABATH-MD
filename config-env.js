@@ -9,8 +9,8 @@ function convertToBool(text, fault = 'true') {
 const username = fs.readFileSync('github_username.txt', 'utf8').trim()
 
 module.exports = {
-    SESSION_ID:  process.env.SESSION_ID,    
-    BOT_NUMBER:  process.env.BOT_NUMBER,
-    GITHUB_USERNAME: username,
-    GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN,
+    SESSION_ID:  process.env.PRABATH-MD~ZutEBbYB#KKcwQbcw2VX5KSx1LMduauPR2I0CiyvSxw2Q71dy5Tc,    
+    BOT_NUMBER:  process.env.94765749332,
+    GITHUB_USERNAME: username,Tirosh1
+    GITHUB_AUTH_TOKEN: process.env.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,
 };
